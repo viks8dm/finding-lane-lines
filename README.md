@@ -2,9 +2,6 @@
 
 ##Project-1: Finding Lane Lines on the Road
 
-###Writeup author: Vikalp Mishra
-###Date of submission: 23rd Feb 2017
-
 ---
 
 **Project Goals**
